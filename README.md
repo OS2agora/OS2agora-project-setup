@@ -1,4 +1,4 @@
-# 📥 OS2agora Project Setup ![Open project-setup issues](https://img.shields.io/github/issues-raw/OS2agora/OS2agora-project-setup?logo=github&logoSize=auto) 
+# 📥 OS2agora Project Setup
 
 Welcome to the OS2korrespondance project setup! This repository serves as the issue tracker and documentation for the initial setup of the OS2agora project.
 
